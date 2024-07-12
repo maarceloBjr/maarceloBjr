@@ -8,7 +8,7 @@
     🎮 Music • Games • Anime • Code
 </pre>
 <br><br>
-<img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" height="40" />
+<img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" height="60" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/maarcelofbjr/)
