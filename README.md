@@ -5,7 +5,7 @@
 <pre>
     💼 SOFTWARE ENGINEERING @ PUCRS • Full-stack dev
     💻 Typescript • React • Nest • Next • Java
-    🎮 Music • Games • Anime • Code
+    🎮 Music • Games • Manga • Code
 </pre>
 <br><br>
 <img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" height="60" />
