@@ -7,9 +7,9 @@
     💻 Typescript • React • Nest • Next • Java
     🎮 Music • Games • Manga • Code
 </pre>
-<br><br>
+<br>
 <img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" height="60" />
-<br><br><br>
+<br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/maarcelofbjr/)
 </div>
